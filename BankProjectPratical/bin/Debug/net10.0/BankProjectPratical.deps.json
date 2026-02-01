@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BankProjectPratical/1.0.0": {
+        "runtime": {
+          "BankProjectPratical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankProjectPratical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

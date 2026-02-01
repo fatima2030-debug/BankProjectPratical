@@ -1,0 +1,15 @@
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.AssemblyInfoInputs.cache
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.AssemblyInfo.cs
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.csproj.CoreCompileInputs.cache
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.sourcelink.json
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\bin\Debug\net10.0\BankProjectPratical.exe
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\bin\Debug\net10.0\BankProjectPratical.deps.json
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\bin\Debug\net10.0\BankProjectPratical.runtimeconfig.json
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\bin\Debug\net10.0\BankProjectPratical.dll
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\bin\Debug\net10.0\BankProjectPratical.pdb
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.dll
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\refint\BankProjectPratical.dll
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.pdb
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\BankProjectPratical.genruntimeconfig.cache
+C:\Users\TEEMAH\source\repos\BankProjectPratical\BankProjectPratical\obj\Debug\net10.0\ref\BankProjectPratical.dll
